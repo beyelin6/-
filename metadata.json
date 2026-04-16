@@ -1,0 +1,6 @@
+{
+  "name": "考試時間提醒系統",
+  "description": "一個專業的考試計時與提醒系統，支援考前預備、結束前警告及結束音效提醒。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
